@@ -2,9 +2,9 @@
 
 :root {
     --primary: rgba(207, 207, 207, 0.548);
-    --dark: #025a1ff1;
+    --dark: #96a0f7f1;
     --light: #fff;
-    --shadow: 0 1px 5px rgba(104, 104, 104, 0.8);
-    --navbar-background: #025a1ff1;
+    --shadow: 0 1px 5px rgba(255, 0, 0, 0.8);
+    --navbar-background: grey;
     --nav-hover-color:#fed136;
 }
